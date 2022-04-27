@@ -6,7 +6,7 @@
         "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
         "Changelog": "",
         "InternalName": "ReAction",
-        "AssemblyVersion": "69.1.6.3",
+        "AssemblyVersion": "69.1.6.4",
         "RepoUrl": "https://github.com/eqbot/ReAction_Custom",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -23,6 +23,6 @@
         "DownloadLinkTesting": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1651023055"
+        "LastUpdate": "1651075658"
     }
 ]

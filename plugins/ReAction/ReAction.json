@@ -1,6 +1,6 @@
 ﻿{
   "Author": "eqbot",
-  "Name": "ReAction_Custom",
+  "Name": "ReAction",
   "Punchline": "QoL for the battle system.",
   "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
   "IconUrl": "",
@@ -11,8 +11,8 @@
   "CategoryTags": [
     "jobs"
   ],
-  "InternalName": "ReAction_Custom",
-  "AssemblyVersion": "1.1.4.8_c",
+  "InternalName": "ReAction",
+  "AssemblyVersion": "69.1.4.9",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
