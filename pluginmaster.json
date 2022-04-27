@@ -17,11 +17,11 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkInstall": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/ReAction_Custom/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkTesting": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/ReAction_Custom/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/ReAction_Custom/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1651023055"
     }
