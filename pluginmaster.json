@@ -6,7 +6,7 @@
         "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
         "Changelog": "",
         "InternalName": "ReAction_custom",
-        "AssemblyVersion": "1.1.6.3_c",
+        "AssemblyVersion": "69.1.6.3",
         "RepoUrl": "https://github.com/eqbot/ReAction_Custom",
         "ApplicableVersion": "any",
         "CategoryTags": [
