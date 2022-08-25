@@ -6,13 +6,13 @@
         "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
         "Changelog": "",
         "InternalName": "ReAction",
-        "AssemblyVersion": "69.1.6.4",
+        "AssemblyVersion": "69.1.6.5",
         "RepoUrl": "https://github.com/eqbot/ReAction_Custom",
         "ApplicableVersion": "any",
         "CategoryTags": [
             "jobs"
         ],
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
         "IconUrl": "",
         "ImageUrls": [
             ""
