@@ -28,7 +28,7 @@
     {
       "Author": "darkarchon, eqbot",
       "Name": "Mare Synchronos Client+",
-      "InternalName": "MareSynchronos+",
+      "InternalName": "MareSynchronosPlus",
       "AssemblyVersion": "0.5.2.0",
       "Description": "Extra options for Mare Synchronos!",
       "ApplicableVersion": "any",
@@ -40,8 +40,8 @@
       "LoadPriority": 0,
       "IconUrl": "https://raw.githubusercontent.com/eqbot/Mare-Client/privacy-settings/MareSynchronos/images/icon.png",
       "Punchline": "Expanded clientside settings for Mare Synchronos",
-      "DownloadLinkInstall": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/MareSynchronos/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/MareSynchronos/latest.zip",
-      "DownloadLinkTesting": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/MareSynchronos/latest.zip",
+      "DownloadLinkInstall": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/MareSynchronosPlus/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/MareSynchronosPlus/latest.zip",
+      "DownloadLinkTesting": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/MareSynchronosPlus/latest.zip",
     }
 ]
