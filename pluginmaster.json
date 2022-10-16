@@ -41,7 +41,7 @@
       "IconUrl": "https://raw.githubusercontent.com/eqbot/Mare-Client/privacy-settings/MareSynchronos/images/icon.png",
       "Punchline": "Expanded clientside settings for Mare Synchronos",
       "DownloadLinkInstall": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/MareSynchronos/latest.zip",
-      "DownloadLinkTesting": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/MareSynchronos/latest.zip"
+      "DownloadLinkTesting": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/MareSynchronos/latest.zip",
       "DownloadLinkUpdate": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/MareSynchronos/latest.zip"
     }
 ]
