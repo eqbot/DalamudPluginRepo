@@ -1,0 +1,14 @@
+{
+  "Author": "Eqbot",
+  "Name": "Snapper",
+  "InternalName": "Snapper",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "/psnap to use",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "snapper"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "Punchline": "Snapshot mods from your friends"
+}

@@ -43,5 +43,19 @@
       "DownloadLinkInstall": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/MareSynchronosPlus/latest.zip",
       "DownloadLinkUpdate": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/MareSynchronosPlus/latest.zip",
       "DownloadLinkTesting": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/MareSynchronosPlus/latest.zip",
+    },
+    {
+      "Author": "Eqbot",
+      "Name": "Snapper",
+      "InternalName": "Snapper",
+      "AssemblyVersion": "0.0.0.1",
+      "Description": "/psnap to use",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "snapper"
+      ],
+      "DalamudApiLevel": 7,
+      "LoadPriority": 0,
+      "Punchline": "Snapshot mods from your friends"
     }
 ]
