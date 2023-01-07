@@ -56,6 +56,9 @@
       ],
       "DalamudApiLevel": 7,
       "LoadPriority": 0,
-      "Punchline": "Snapshot mods from your friends"
+      "Punchline": "Snapshot mods from your friends",
+      "DownloadLinkInstall": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/Snapper/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/Snapper/latest.zip",
+      "DownloadLinkTesting": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/Snapper/latest.zip",
     }
 ]
