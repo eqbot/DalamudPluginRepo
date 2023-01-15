@@ -46,18 +46,40 @@
       "Author": "Eqbot",
       "Name": "Snapper",
       "InternalName": "Snapper",
-      "AssemblyVersion": "0.0.0.1",
+      "AssemblyVersion": "0.0.0.2",
       "Description": "/psnap to use",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/eqbot/XIVSnapper",
       "Tags": [
         "snapper"
       ],
-      "DalamudApiLevel": 7,
+      "DalamudApiLevel": 8,
       "LoadPriority": 0,
       "Punchline": "Snapshot mods from your friends",
       "DownloadLinkInstall": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/Snapper/latest.zip",
       "DownloadLinkUpdate": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/Snapper/latest.zip",
       "DownloadLinkTesting": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/Snapper/latest.zip",
+    },
+    {
+      "Author": "XIV Tools",
+      "Name": "Customize+",
+      "InternalName": "CustomizePlus",
+      "AssemblyVersion": "0.0.1.4",
+      "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "anamnesis",
+        "customize",
+        "XIV Tools"
+      ],
+      "DalamudApiLevel": 8,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "LoadPriority": 0,
+      "Punchline": "Customize your character beyond FFXIV's limitations.",
+      "AcceptsFeedback": true,
+      "DownloadLinkInstall": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/CustomizePlus/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/CustomizePlus/latest.zip",
+      "DownloadLinkTesting": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/CustomizePlus/latest.zip",
     }
 ]
