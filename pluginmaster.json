@@ -46,7 +46,7 @@
       "Author": "Eqbot",
       "Name": "Snapper",
       "InternalName": "Snapper",
-      "AssemblyVersion": "0.0.0.5",
+      "AssemblyVersion": "0.0.0.6",
       "Description": "/psnap to use",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/eqbot/XIVSnapper",
