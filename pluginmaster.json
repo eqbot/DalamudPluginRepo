@@ -1,85 +1,20 @@
 [
     {
-        "Author": "eqbot",
-        "Name": "ReAction_Custom",
-        "Punchline": "QoL for the battle system.",
-        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-        "Changelog": "",
-        "InternalName": "ReAction",
-        "AssemblyVersion": "69.1.6.7",
-        "RepoUrl": "https://github.com/eqbot/ReAction_Custom",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "jobs"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
-    },
-    {
-      "Author": "darkarchon, eqbot",
-      "Name": "Mare Synchronos Client+",
-      "InternalName": "MareSynchronosPlus",
-      "AssemblyVersion": "0.6.10.0",
-      "Description": "Extra options for Mare Synchronos!",
-      "ApplicableVersion": "any",
-      "RepoUrl": "https://github.com/eqbot/Mare-Client",
-      "Tags": [
-        "customization"
-      ],
-      "DalamudApiLevel": 8,
-      "LoadPriority": 0,
-      "IconUrl": "https://raw.githubusercontent.com/eqbot/Mare-Client/privacy-settings/MareSynchronos/images/icon.png",
-      "Punchline": "Expanded clientside settings for Mare Synchronos",
-      "DownloadLinkInstall": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/MareSynchronosPlus/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/MareSynchronosPlus/latest.zip",
-      "DownloadLinkTesting": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/MareSynchronosPlus/latest.zip",
-    },
-    {
       "Author": "Eqbot",
       "Name": "Snapper",
       "InternalName": "Snapper",
-      "AssemblyVersion": "0.0.0.6",
+      "AssemblyVersion": "0.0.1.1",
       "Description": "/psnap to use",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/eqbot/XIVSnapper",
       "Tags": [
         "snapper"
       ],
-      "DalamudApiLevel": 8,
+      "DalamudApiLevel": 9,
       "LoadPriority": 0,
       "Punchline": "Snapshot mods from your friends",
       "DownloadLinkInstall": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/Snapper/latest.zip",
       "DownloadLinkUpdate": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/Snapper/latest.zip",
       "DownloadLinkTesting": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/Snapper/latest.zip",
-    },
-    {
-      "Author": "XIV Tools",
-      "Name": "Customize+",
-      "InternalName": "CustomizePlus",
-      "AssemblyVersion": "0.0.1.4",
-      "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
-      "ApplicableVersion": "any",
-      "Tags": [
-        "anamnesis",
-        "customize",
-        "XIV Tools"
-      ],
-      "DalamudApiLevel": 8,
-      "LoadRequiredState": 0,
-      "LoadSync": false,
-      "LoadPriority": 0,
-      "Punchline": "Customize your character beyond FFXIV's limitations.",
-      "AcceptsFeedback": true,
-      "DownloadLinkInstall": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/CustomizePlus/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/CustomizePlus/latest.zip",
-      "DownloadLinkTesting": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/CustomizePlus/latest.zip",
     }
 ]

@@ -1,5 +1,5 @@
 {
-  "Author": "Eqbot",
+  "Author": "Eqbot, astrodoobs",
   "Name": "Snapper",
   "InternalName": "Snapper",
   "AssemblyVersion": "0.0.0.5",
@@ -8,9 +8,10 @@
   "Tags": [
     "snapper"
   ],
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Snapshot mods from your friends",
   "AcceptsFeedback": true
