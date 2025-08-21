@@ -1,14 +1,14 @@
 {
-  "Author": "Eqbot, astrodoobs",
+  "Author": "Eqbot, astrodoobs, Vivi",
   "Name": "Snapper",
   "InternalName": "Snapper",
-  "AssemblyVersion": "0.0.0.5",
+  "AssemblyVersion": "0.0.0.6",
   "Description": "/psnap to use",
   "ApplicableVersion": "any",
   "Tags": [
     "snapper"
   ],
-  "DalamudApiLevel": 9,
+  "DalamudApiLevel": 13,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
